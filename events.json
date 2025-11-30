@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1764454807789",
+    "name": "Finumovica",
+    "description": "ldfbugzhfbusdzfbsffs",
+    "date": "2025-11-30",
+    "time": "00:50",
+    "mode": "team",
+    "eliminationType": "double",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/2560px-League_of_Legends_2019_vector.svg.png",
+    "streamUrl": "",
+    "lobbyUrl": "",
+    "teamSize": 5,
+    "status": "upcoming",
+    "registrations": [
+      {
+        "type": "team",
+        "teamId": "1763998730229",
+        "teamName": "Finumovci",
+        "memberCount": 1,
+        "registeredAt": "2025-11-29T22:20:13.608Z",
+        "checkedIn": false
+      }
+    ],
+    "matches": [],
+    "bracket": null,
+    "winner": null,
+    "createdAt": "2025-11-29T22:20:07.789Z"
+  }
+]

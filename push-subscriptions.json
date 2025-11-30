@@ -1,0 +1,2081 @@
+[
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:02:35.150Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:03:10.206Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:03:27.331Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:04:35.034Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:05:02.687Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:08:13.323Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:08:27.434Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:08:36.792Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:10:13.420Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:11:29.253Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:13:42.603Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:20:02.412Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:20:18.885Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:20:31.141Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:20:55.379Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T11:24:41.659Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T15:58:56.199Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T15:59:05.280Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T15:59:07.324Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:00:04.109Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:20:49.742Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:21:14.644Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:21:36.143Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:21:55.682Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:22:01.851Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:22:06.417Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:22:20.681Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:22:24.328Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:22:26.369Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:22:30.713Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:22:55.413Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:24:39.072Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:25:12.176Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:25:17.789Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:26:38.760Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:27:06.926Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:27:46.761Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:42:47.761Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:43:08.360Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:45:37.849Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:46:00.843Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T16:46:36.896Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T20:08:56.965Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:00:28.551Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:00:34.638Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:00:40.826Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:02:20.098Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:03:11.169Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:03:22.398Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:03:42.464Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:04:13.014Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:04:28.323Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:04:44.006Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:05:51.166Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:06:09.322Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:06:38.542Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:06:48.412Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:07:04.425Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-25T21:07:45.204Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:18:56.650Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:20:07.780Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:20:28.338Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:21:01.130Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:22:29.889Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:23:16.204Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:23:31.773Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:23:43.722Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:23:57.063Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:24:00.886Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T07:24:27.339Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:10:57.892Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:11:02.018Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:13:39.464Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:13:49.098Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:13:54.733Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:13:58.548Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:14:11.367Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:15:25.512Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:16:39.554Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:16:54.478Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:17:52.867Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:18:13.083Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:18:24.351Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:18:34.296Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:18:40.348Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:18:51.784Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:25:39.353Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:25:45.662Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:26:00.705Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:26:55.251Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:27:06.724Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:27:11.464Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:27:17.430Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:28:43.990Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:28:47.144Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:53:19.959Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:53:24.140Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:54:08.107Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T08:54:29.531Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T09:06:11.718Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T09:24:55.356Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T09:25:00.993Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T09:25:03.491Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T09:25:12.573Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T09:25:16.390Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T09:26:10.952Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T09:56:31.428Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T10:02:45.206Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T10:02:57.616Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T10:03:22.027Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T10:03:29.192Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T11:11:16.542Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T11:11:29.074Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T11:11:32.518Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T11:11:43.002Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T11:11:59.363Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T11:12:04.668Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T11:12:06.852Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T11:12:08.435Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T12:02:08.880Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T12:02:22.439Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T12:04:27.804Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T12:04:29.169Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T12:04:31.433Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T12:04:38.789Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T12:04:49.630Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T12:05:37.767Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T17:10:17.946Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T17:10:25.396Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T17:10:32.187Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T17:10:41.210Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T17:11:36.220Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T17:11:56.280Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T17:12:35.817Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T17:13:30.646Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T20:34:58.739Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T20:35:06.871Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T20:35:33.510Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T20:35:40.676Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T20:35:51.940Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T20:36:01.345Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T20:36:20.014Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T20:37:26.600Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T20:37:43.743Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-26T20:37:52.560Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:13:51.236Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:14:02.349Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:14:27.003Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:15:13.629Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:15:47.848Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:16:00.869Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:16:05.822Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:16:38.156Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:16:54.987Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:18:24.820Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:19:09.498Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:20:35.712Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:21:07.567Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:21:12.590Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:21:17.847Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:21:24.857Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:22:43.197Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:22:46.693Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:23:09.488Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:23:23.739Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:24:15.414Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:24:28.234Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T08:24:54.770Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T16:51:35.311Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T16:52:35.088Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T16:54:05.833Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T17:01:52.625Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T19:28:56.863Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T19:29:05.784Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T19:29:12.181Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-27T19:29:16.641Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:15:24.852Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:15:31.160Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:15:31.985Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:15:37.541Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:15:42.118Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:15:48.756Z"
+  },
+  {
+    "userId": "1764144913053",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:16:14.899Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:19:30.717Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:20:11.311Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:20:24.946Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:21:46.569Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:23:13.339Z"
+  },
+  {
+    "userId": "1763998692997",
+    "subscription": {
+      "endpoint": "simulated-endpoint",
+      "keys": {
+        "p256dh": "simulated-key",
+        "auth": "simulated-auth"
+      }
+    },
+    "createdAt": "2025-11-29T22:23:20.286Z"
+  }
+]

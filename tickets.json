@@ -1,0 +1,99 @@
+[
+  {
+    "id": "1764004980777",
+    "userId": "1763998692997",
+    "username": "finum29",
+    "subject": "problém s madarku",
+    "message": "IŠtváň dere ide",
+    "status": "closed",
+    "responses": [
+      {
+        "message": "nemtudom magiaro",
+        "respondedBy": "finum29",
+        "respondedAt": "2025-11-24T17:23:29.649Z"
+      },
+      {
+        "message": "okay working on it",
+        "respondedBy": "finum29",
+        "respondedAt": "2025-11-25T11:11:26.025Z"
+      },
+      {
+        "message": "Is it worth it ?",
+        "respondedBy": "finum29",
+        "respondedAt": "2025-11-25T11:20:49.295Z"
+      },
+      {
+        "message": "lolol",
+        "respondedBy": "finum29",
+        "respondedAt": "2025-11-25T15:59:55.655Z"
+      },
+      {
+        "message": "hello",
+        "respondedBy": "finum29",
+        "respondedAt": "2025-11-26T08:14:08.751Z"
+      },
+      {
+        "message": "hi so can you tell me whats you problem ?",
+        "respondedBy": "finum29",
+        "respondedAt": "2025-11-26T08:14:44.841Z"
+      }
+    ],
+    "createdAt": "2025-11-24T17:23:00.777Z",
+    "closedAt": "2025-11-26T10:03:07.308Z",
+    "messages": [
+      {
+        "id": "1764144848750",
+        "userId": "1763998692997",
+        "username": "finum29",
+        "message": "hello",
+        "isAdmin": true,
+        "timestamp": "2025-11-26T08:14:08.750Z"
+      },
+      {
+        "id": "1764144884841",
+        "userId": "1763998692997",
+        "username": "finum29",
+        "message": "hi so can you tell me whats you problem ?",
+        "isAdmin": true,
+        "timestamp": "2025-11-26T08:14:44.841Z"
+      }
+    ],
+    "hasUnreadResponse": false
+  },
+  {
+    "id": "1764145012626",
+    "userId": "1764144913053",
+    "username": "RichardMoravansky",
+    "subject": "problém s madarku",
+    "message": "Íštenem",
+    "status": "closed",
+    "responses": [
+      {
+        "message": "hi so can you tell me what is the problem detailed",
+        "respondedBy": "finum29",
+        "respondedAt": "2025-11-26T08:17:36.676Z"
+      }
+    ],
+    "messages": [
+      {
+        "id": "1764145012626",
+        "userId": "1764144913053",
+        "username": "RichardMoravansky",
+        "message": "Íštenem",
+        "isAdmin": false,
+        "timestamp": "2025-11-26T08:16:52.626Z"
+      },
+      {
+        "id": "1764145056676",
+        "userId": "1763998692997",
+        "username": "finum29",
+        "message": "hi so can you tell me what is the problem detailed",
+        "isAdmin": true,
+        "timestamp": "2025-11-26T08:17:36.676Z"
+      }
+    ],
+    "createdAt": "2025-11-26T08:16:52.626Z",
+    "hasUnreadResponse": false,
+    "closedAt": "2025-11-26T10:03:04.398Z"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1763998692997",
+    "username": "finum29",
+    "email": "rekixsk@gmail.com",
+    "passwordHash": "$2b$10$t6SsE3fu4z/vyYUagVnUXuwKC1BNlvYrHiPq1m2.FNGDiembiHKgC",
+    "isAdmin": true,
+    "teamId": "1763998730229",
+    "status": "active",
+    "registeredEvents": [
+      "1764002883770",
+      "1764002883770",
+      "1764088965617",
+      "1764104509801",
+      "1764104746668",
+      "1764141655777",
+      "1764177078752",
+      "1764231191186",
+      "1764454807789"
+    ],
+    "createdAt": "2025-11-24T15:38:12.999Z"
+  },
+  {
+    "id": "1764144913053",
+    "username": "RichardMoravansky",
+    "email": "richardmoravansky8@gmail.com",
+    "passwordHash": "$2b$10$iVgvtvR4xJBl3fyx0b0/Qele5OQZx6z7TIMgmNcjh5v7bNdB/Tz4.",
+    "isAdmin": false,
+    "teamId": "1764231389688",
+    "status": "active",
+    "registeredEvents": [
+      "1764231191186"
+    ],
+    "createdAt": "2025-11-26T08:15:13.053Z"
+  }
+]
